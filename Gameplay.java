@@ -46,7 +46,7 @@ public class Gameplay {
 		emojis[3] = new String(code, 0, code.length);	
 		
 		//4 U+0034 U+20E3
-	    code[0] = 0x0034; code[1] = 0x20E3;
+	    	code[0] = 0x0034; code[1] = 0x20E3;
 		emojis[4] = new String(code, 0, code.length);	
 		
 		//5  U+0035 U+20E3
@@ -57,8 +57,8 @@ public class Gameplay {
 		code[0] = 0x0036; code[1] = 0x20E3;
 		emojis[6] = new String(code, 0, code.length);
 		
-		//7 U+0037 U+20E3
-	    code[0] = 0x0037; code[1] = 0x20E3;
+		//7 U+0037 U+20E
+		code[0] = 0x0037; code[1] = 0x20E3;
 		emojis[7] = new String(code, 0, code.length);	
 		
 		//8  U+0038 U+20E3
